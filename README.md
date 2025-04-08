@@ -1,6 +1,6 @@
-# Frontend Mentor - Social links profile solution
+# Frontend Mentor - Order summary component solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
+This is a solution to the [Order summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
 ## Table of contents
 
@@ -19,8 +19,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/social-links-profile-JlyysFsL8a)
-- Live Site URL: [Hosted on GitHub Pages](https://filipjanik.github.io/social-links-profile/)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/order-summary-component-zYUafur9aU)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik.github.io/order-summary-component/)
 
 ## My process
 
